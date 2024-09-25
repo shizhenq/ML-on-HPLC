@@ -1,9 +1,9 @@
-1.	Excel file
+1.	Excel files
   a.	training data_Github.xlsx -  entire training database for 51 compounds across twenty columns
   b.	test data_Github.xlsx – independent test set for 24 independent compounds across five columns
   c.	training data_90_10_Github.xlsx – 90/10 split of the entire training data
 
-2.	python file
+2.	python files
   a.	ANN_Github.ipynb – ANN for the training data with and without SP and MP parameters
   b.	ANN_independent test_Github.ipynb – ANN for independent test set
   c.	ANN_COLUMN_TRANSFER_90_10_Github.ipyng – ANN for the 90/10 split of the training data
@@ -11,7 +11,7 @@
   e.	SHapley_ANN_Github.ipynb – Calculate shapley value for ANN across the entire training data
   f.	SHapley_PLS_Github.ipynb - Calculate shapley value for PLS across the entire training data
 	
-3.	Matlab file
+3.	Matlab files
   a.	Workspace_Github_20240924.mat – Matlab workspace for the data from three xlsx files
   b.	PLS_independent_test_Github.m - PLS for independent test set
   c.	PLS_90_10_Github.m - PLS for the 90/10 split of the training data
